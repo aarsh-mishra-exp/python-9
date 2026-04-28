@@ -1,0 +1,12 @@
+site_name: 'python-9'
+site_description: 'Main documentation for the python-9'
+repo_url: https://github.com/LuC-9/python-9
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.json`
+nav:
+  - Overview:
+      - Getting started: 'docs/index.md'
